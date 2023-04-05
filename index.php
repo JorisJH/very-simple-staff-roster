@@ -136,7 +136,7 @@ echo('</head>
     else{
     	echo (" <a href='index.php?normalView=1'>Druckansicht deaktivieren</a>");
     	};
-
+    echo (" <a href='https://github.com/JorisJH/very-simple-staff-roster' target='_blank'>Projekt Quellcode</a>");
 
 
 
