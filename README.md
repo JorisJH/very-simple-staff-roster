@@ -40,6 +40,7 @@ Empfohlene PHP Version: 8.1
 
 *German Version below/Deutscheversion unten*
 
+```
 This file is part of very-simple-staff-roster.
 
 
@@ -97,6 +98,11 @@ This file is part of very-simple-staff-roster.
   Sie sollten eine Kopie der GNU General Public License zusammen mit diesem
 
   Programm erhalten haben. Wenn nicht, siehe <https://www.gnu.org/licenses/>.
+```
+
+
+
+
 
 
 
