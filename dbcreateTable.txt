@@ -1,0 +1,26 @@
+CREATE TABLE day(
+     date datetime,
+     PRIMARY KEY (date)
+     );
+
+
+CREATE TABLE bevor_noon(
+  date datetime,
+  name VARCHAR(200),
+  PRIMARY KEY (date,name)
+);
+
+CREATE TABLE after_noon(
+  date datetime,
+  name VARCHAR(200),
+  PRIMARY KEY (date,name)
+);
+
+
+CREATE TABLE extra(
+  month INT,
+  year INT,
+  text TEXT,
+  PRIMARY KEY (month,year)
+);
+

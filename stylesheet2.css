@@ -1,0 +1,43 @@
+table {
+		margin-left: auto;
+		margin-right: auto;
+		border-width: 1px;
+		border-style: solid;
+		border-color: black;
+		border-spacing: 0px;
+		border-collapse: separate;
+	}
+
+tr{
+		border-width: 1px;
+		border-style: solid;
+		border-color: black;
+		height: 0px;
+	}
+
+td{
+		height: 30px;
+		border-width: 1px;
+		border-style: solid;
+		border-color: black;
+		padding: 0px;
+	}
+
+
+tr.dick{
+		border-width: 2px;
+		border-style: solid;
+		border-color: black;
+	}
+
+td.dick{
+		height: 60px;
+		border-width: 1px;
+		border-style: solid;
+		border-color: black;
+		padding: 0px;
+	}
+	td.boldborder{
+		height: inherit;
+		border-top: 1.5px solid #000;
+	}
