@@ -2,7 +2,7 @@
 
 *Licence on bottom of file/Lizenztext ganz unten* 
 
-*German Version below*
+*German Version below/ Deutscheversion unten*
 
 
 
